@@ -1,0 +1,7 @@
+Los armónicos del .wav son:
+- Do ~532
+- DO ~1058
+- Sol ~1592
+- Do ~2123
+- Mi ~2650
+- Sol ~3182
