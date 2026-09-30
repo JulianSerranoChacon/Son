@@ -1,0 +1,35 @@
+# Archivos y carpetas generados automáticamente
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+# Archivos de registro
+*.log
+# Archivos de respaldo de Blender
+*.blend1
+*.blend1.meta
+# Capturas de memoria y grabaciones
+[Mm]emoryCaptures/
+[Rr]ecordings/
+# Configuración específica de IDEs
+vs/
+gradle/
+*.csproj
+*.unityproj
+*.sln
+*.userprefs
+# Archivos generados por Unity en caso de fallos
+sysinfo.txt
+mono_crash.*
+# Archivos de compilación y paquetes
+*.apk
+*.aab
+*.unitypackage
+# Ignorar datos generados por Addressables y Visual Scripting
+[Aa]ssets/AddressableAssetsData/*/*.bin*
+[Aa]ssets/Unity.VisualScripting.Generated/
+# Escenas generadas automáticamente por pruebas en modo Play
+[Aa]ssets/InitTestScene*.unity*
