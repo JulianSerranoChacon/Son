@@ -33,3 +33,7 @@ mono_crash.*
 [Aa]ssets/Unity.VisualScripting.Generated/
 # Escenas generadas automáticamente por pruebas en modo Play
 [Aa]ssets/InitTestScene*.unity*
+*.meta
+*.vsidx
+*.asset
+/Practca3/My project/.vs
