@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{fe74029b-33be-416a-9499-e9fd71284398}">
+		<property name="assetPath">
+			<value>steps3.ogg</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.14714583333333334</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{066ba236-e648-413c-b5a3-e68e4273f359}</destination>
+		</relationship>
+	</object>
+</objects>
